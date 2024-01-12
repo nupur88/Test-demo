@@ -1,3 +1,3 @@
 # Test-demo
-This is my first Git Repository
-Author- Nupur Choudhury
+This is my first Git Repository.
+<br>Author- Nupur Choudhury</br>
